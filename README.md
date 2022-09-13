@@ -1,5 +1,7 @@
 # cosmjs-utils
 
+CosmJS utilities
+
 ```
 yarn add cosmjs-utils
 ```
